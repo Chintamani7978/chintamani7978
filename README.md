@@ -1,17 +1,17 @@
-# 💫 Hi 👋, I'm Chintamani Mohanta
+#  Hi , I'm Chintamani Mohanta
 **A passionate Front-end Devloper || 
 
-Email Me 👉 ✉️ **chintamanimohanta2@.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me  **chintamanimohanta2@.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Front-End Projects
-- 🌱 **I’m currently learning:** Next.Js
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** chintamanimohanta2@gmail.com
-- 😄 **Pronouns:** Alvedo
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🔗 I am a Content Creator. 😊😊
+-  **I’m currently working on:** Front-End Projects
+-  **I’m currently learning:** Next.Js
+-  **I’m looking to collaborate on:** 
+-  **I’m looking for help with:** 
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** chintamanimohanta2@gmail.com
+-  **Pronouns:** Alvedo
+-  **Fun fact:** I Love Tech and Tech Love Me
+##
 <!-- Snake Game Repo View -->
 
 <div align="center">
